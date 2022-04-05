@@ -1,0 +1,12 @@
+import Header from './Header';
+import Game from './Game';
+function App() {
+  return (
+    <>
+      <Header />
+      <Game />
+    </>
+  );
+}
+
+export default App;
